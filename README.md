@@ -25,7 +25,7 @@ Over the last 12+ years, I've worked across India and the Middle East with some 
 I've led analytics teams, built scalable reporting systems, and translated complex patterns into clear, actionable insights. Whether it's improving performance, guiding strategy, or setting up measurement frameworks, I focus on making data useful for everyone.
 
 - Currently working as **Manager - Digital Analytics** at **Publicis Sapient**, Gurugram
-- Pursuing **MBA in Business Analytics** from **Jindal Global Business School**
+- **MBA in Business Analytics** from **Jindal Global Business School**
 - **ISB** certified in Digital Marketing & Analytics | **Duke University** certified in Product Management
 - I also offer **Interview Preparation** and **Career Development Coaching**
 - Languages: English (Professional Working) | Hindi (Full Professional)
