@@ -140,8 +140,12 @@ I've led analytics teams, built scalable reporting systems, and translated compl
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=meetbharat101&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.zohan.tech/api?username=meetbharat101&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
   <img src="https://streak-stats.demolab.com/?user=meetbharat101&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=meetbharat101&theme=tokyonight" alt="GitHub Profile Summary" width="700"/>
 </p>
 
 ---
