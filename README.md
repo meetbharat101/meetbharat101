@@ -141,7 +141,7 @@ I've led analytics teams, built scalable reporting systems, and translated compl
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.zohan.tech/api/top-langs/?username=meetbharat101&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=meetbharat101&theme=tokyonight&v=2" alt="GitHub Profile Summary" width="700"/>
 </p>
 
 ---
