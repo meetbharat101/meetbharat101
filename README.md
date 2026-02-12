@@ -1,10 +1,6 @@
 <h1 align="center">Hi there, I'm Bharat Mishra <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 
 <p align="center">
-  <img src="profile-pic.png" width="180" style="border-radius: 50%;" alt="Bharat Mishra"/>
-</p>
-
-<p align="center">
   <strong>Analytics Pro, Solving business growth with 3A - Analytics, Automation and AI</strong><br/>
   12+ Years across India & Middle East | Paytm | Landmark Group | NowNow | Publicis Sapient
 </p>
